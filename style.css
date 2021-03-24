@@ -1,5 +1,5 @@
 body {
-    background-image: url(background.png);
+    background-image: url(background.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -9,7 +9,7 @@ div.container {
     width: 80%;
     height: 100%;
     grid-template-columns: 1fr 2fr 1fr;
-    grid-template-rows: 1fr 3fr 0.25fr;
+    grid-template-rows: 0.25fr 3fr 0.25fr;
     grid-template-areas:
       "head head head"
       "panleft mainbody panright"
@@ -17,52 +17,33 @@ div.container {
 }
 div.header {
     grid-area: head;                /* head corresponds to name in template */
-    height: 350px;
+    background-color: rgba(41, 41, 41, 0.507);
 }
 #title {
     font-family: 'Roboto', sans-serif;
     font-weight: 200;
     color: white;
-    text-transform: uppercase;
     margin: 0;
     position: absolute;
-    top: 35%;
+    top: 25%;
     left: 50%;
     font-size: 5rem;
     transform: translate(-50%, -50%);
-    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
-}
-#subtitle {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 450;
-    color: white;
-    text-transform: uppercase;
-    margin: 0;
-    position: absolute;
-    top: 45%;
-    left: 50%;
-    font-size: 1.5rem;
-    transform: translate(-50%, -50%);
-    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 div.footer {
     grid-area: foot;
     background-color: rgba(41, 41, 41, 0.507);
 }
-div.panel {                            /* div elements with "panel" class */
-    background: rgb(0, 0, 0, 0.1);                             /* 10% black */
-    background-image: url(Tattoo.jpg);
-}
 div.panel.left {                    /* with both "panel" and "left" class */
     grid-area: panleft;
-    background-position: 20% 0%;
+    background-color: rgba(4, 138, 138, 0.507);
 }
 div.panel.right {
     grid-area: panright;
-    background-position: 80% 0%;
+    background-color: rgba(4, 138, 138, 0.507);
 }
 div.mainbody {
     padding: 20px 40px;
     grid-area: mainbody;
-    background-color: ivory;
+    background-color: rgba(255, 255, 240, 0.658);
 }
