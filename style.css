@@ -1,6 +1,5 @@
 body {
-    background-image: url("Background.jpg");
-    background-color: blueviolet;
+    background-image: url("Background.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
