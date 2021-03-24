@@ -1,5 +1,6 @@
 body {
-    background-image: url("https://clarkjoey.github.io/Home/Background.jpg");
+    background-image: url("Background.jpg");
+    background-color: blueviolet;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
