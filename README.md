@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][google.com]
 
 
 
@@ -14,7 +14,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Personal Website - Frontend</h3>
 
   <p align="center">
     project_description
@@ -62,26 +62,20 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+This is a first attempt at making a personal webiste. The is an example of building a project using the frontend only. This personal website uses HTML and CSS.
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [Bootstrap](https://getbootstrap.com/)
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To run on your machine, navigate to 
 
 ### Prerequisites
 
