@@ -10,24 +10,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
+  <!--
   <a href="https://github.com/github_username/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
+  -->
 
   <h3 align="center">Personal Website - Frontend</h3>
 
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
 </p>
 
 
@@ -75,18 +65,22 @@ This is a first attempt at making a personal webiste. The is an example of build
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To run on your machine, navigate to 
+To run on your machine, navigate to [https://clarkjoey.github.io/personal-website-frontend/home.html](https://clarkjoey.github.io/personal-website-frontend/home.html)
 
 ### Prerequisites
+There are no prerequisites for this software - the webpage is hosted by github (See "Getting Started").
 
+<!-- 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
   ```
+--> 
 
 ### Installation
-
+There are no installation requirements.
+<!--
 1. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
@@ -95,23 +89,22 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-
+-->
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
+This webpage is a good example of how I might use a website I have built to display my projects and tell a little about myself.
+<!--
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
+-->
 
 
 <!-- ROADMAP -->
 ## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
+Future iterations will include backend logic, an express.js server, and a database - a "3-tier application".
 
 
 <!-- CONTRIBUTING -->
@@ -130,16 +123,16 @@ Contributions are what make the open source community such an amazing place to l
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. 
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Joseph Clark - [https://www.linkedin.com/in/imjosephclark/](https://www.linkedin.com/in/imjosephclark/) - LinkedIn
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/clarkjoey/personal-website-frontend](https://github.com/clarkjoey/personal-website-frontend)
 
 
 
