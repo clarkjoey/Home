@@ -164,4 +164,4 @@ Project Link: [https://github.com/clarkjoey/personal-website-frontend](https://g
 [license-shield]: https://img.shields.io/github/license/clarkjoey/repo.svg?style=for-the-badge
 [license-url]: https://github.com/clarkjoey/personal-website-frontend/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/https://www.linkedin.com/in/imjosephclark/
+[linkedin-url]: https://www.linkedin.com/in/imjosephclark/
